@@ -5,3 +5,7 @@
 this short project is make with SFML and vertex array !
 
 i let a build version for windows ^^
+
+using SFML and cmake with c++
+
+2sd version : https://github.com/rurueuh/particule2
